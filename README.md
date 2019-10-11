@@ -1,5 +1,5 @@
 # Angular Avanzado
-L aimplementacion de ngrx con Angular en https://github.com/nestdanchia/ngrxRedux
+La implementacion de ngrx con Angular en https://github.com/nestdanchia/ngrxRedux
 Sigue las ramas del tutorial
 Hola Alberto,la clase 5 del curso de escuela IT vimos interceptores este resumen de acuerdo a lo que entendí es correcto gracias 
 1. Usario requiere operaciones que corresponden a una ruta privada "priv/monthbalances/
